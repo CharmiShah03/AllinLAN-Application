@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+#screenShotHolder {
+    overflow: hidden;
+    position: absolute;
+}
+#screenShot {
+    position: absolute;
+    display: block;
+}
+
+
