@@ -16,6 +16,7 @@ After downloading the zip file,one can run AllinLAN in 3 ways.
 ![MianScreen](https://user-images.githubusercontent.com/84918947/122164732-d7723580-ce94-11eb-9076-06abf09c5236.PNG)
 
 
+
 ### Dashboard
 
 ![Dashboard](https://user-images.githubusercontent.com/84918947/122165501-ec02fd80-ce95-11eb-83bc-4d3626e077e5.PNG)
