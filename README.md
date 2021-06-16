@@ -9,3 +9,6 @@ After downloading the zip file,one can run AllinLAN in 3 ways.
 3) By running file which is at location src/allinlan/Login-Register.java in neatbeans.
 
 ## ScreenShots
+
+![MianScreen](https://user-images.githubusercontent.com/84918947/122164732-d7723580-ce94-11eb-9076-06abf09c5236.PNG)
+
